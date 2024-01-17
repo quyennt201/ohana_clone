@@ -1,0 +1,5 @@
+{
+  "extends": "next/core-web-vitals"
+}
+
+//config eslint (warning o terminal)
